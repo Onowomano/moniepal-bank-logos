@@ -8,7 +8,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Access%20Bank%20Rwanda%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Access%20Bank%20Rwanda.png"
   },
   {
     "name": "Airtel Money",
@@ -18,7 +18,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "mobile_money",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Airtel%20Money%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Airtel%20Money.png"
   },
   {
     "name": "Bank of Africa",
@@ -28,7 +28,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Bank%20of%20Africa%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Bank%20of%20Africa.png"
   },
   {
     "name": "Bank of Kigali",
@@ -38,7 +38,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Bank%20of%20Kigali%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Bank%20of%20Kigali.png"
   },
   {
     "name": "BPR Bank",
@@ -49,7 +49,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/BPR%20Bank%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/BPR%20Bank.png"
   },
   {
     "name": "Cogebanque",
@@ -59,7 +59,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Cogebanque%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Cogebanque.png"
   },
   {
     "name": "Ecobank",
@@ -69,7 +69,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Ecobank%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Ecobank.png"
   },
   {
     "name": "Equity Bank",
@@ -79,7 +79,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Equity%20Bank%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Equity%20Bank.png"
   },
   {
     "name": "Guaranty Trust Bank Rwanda",
@@ -90,7 +90,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Guaranty%20Trust%20Bank%20Rwanda%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Guaranty%20Trust%20Bank%20Rwanda.png"
   },
   {
     "name": "I & M Bank",
@@ -100,7 +100,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/I%20%26%20M%20Bank%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/I%20%26%20M%20Bank.png"
   },
   {
     "name": "MTN MoMo",
@@ -110,7 +110,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "mobile_money",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/MTN%20MoMo%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/MTN%20MoMo.png"
   },
   {
     "name": "NCBA Bank",
@@ -120,7 +120,7 @@
     "bankCode": null,
     "scCode": null,
     "category": "commercial_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/NCBA%20Bank%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/NCBA%20Bank.png"
   },
   {
     "name": "Tigo",
@@ -130,6 +130,6 @@
     "bankCode": null,
     "scCode": null,
     "category": "mobile_money",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Tigo%20-%20null.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Tigo.png"
   }
 ]
