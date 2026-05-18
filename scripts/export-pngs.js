@@ -2,7 +2,7 @@ import sharp from 'sharp'
 import fs from 'fs'
 import path from 'path'
 
-const banks = JSON.parse(fs.readFileSync('./data/banks.json', 'utf8'))
+const banks = JSON.parse(fs.readFileSync('./data/bank.json', 'utf8'))
 const SIZE = 128
 const DEFAULT_SVG = './source/Default Bank.svg'
 

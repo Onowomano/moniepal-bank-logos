@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'source/**'
-      - 'data/banks.json'
+      - 'data/bank.json'
 
 jobs:
   export:
