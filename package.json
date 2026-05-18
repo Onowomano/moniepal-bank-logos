@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Onowomano/moniepal-bank-logos#readme",
   "description": "",
+  "type": "module",
   "dependencies": {
     "sharp": "^0.34.5"
   }
