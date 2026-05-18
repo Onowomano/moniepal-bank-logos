@@ -6,6 +6,9 @@ on:
       - 'source/**'
       - 'data/bank.json'
 
+permissions:
+  contents: write
+
 jobs:
   export:
     runs-on: ubuntu-latest
