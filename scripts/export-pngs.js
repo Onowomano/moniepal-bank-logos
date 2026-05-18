@@ -12,6 +12,7 @@ fs.mkdirSync('./dist', { recursive: true })
 for (const [currency, data] of Object.entries(banks)) {
   const currencyFolder = currency.toLowerCase()
   const liveBanks = []
+  const usedFilenames = new Set()
 
   for (const [categoryKey, categoryBanks] of Object.entries(data.categories)) {
     // convert category key: commercial_banks → commercial-banks
@@ -20,15 +21,37 @@ for (const [currency, data] of Object.entries(banks)) {
     fs.mkdirSync(outputDir, { recursive: true })
 
     for (const bank of categoryBanks) {
-      const svgPath = `./source/${currencyFolder}/${categoryFolder}/${bank.name}.svg`
-      const outputFilename = `${bank.name} - ${bank.bankCode}.png`
-      const outputPath = path.join(outputDir, outputFilename)
+      const namesvgPath = `./source/${currencyFolder}/${categoryFolder}/${bank.name}.svg`
+      let sourceSvg = DEFAULT_SVG
+      let matchedAlias = null
 
-      const sourceSvg = fs.existsSync(svgPath) ? svgPath : DEFAULT_SVG
-
-      if (!fs.existsSync(svgPath)) {
-        console.warn(`⚠️  No SVG for "${bank.name}" in ${categoryFolder} — using default`)
+      if (fs.existsSync(namesvgPath)) {
+        sourceSvg = namesvgPath
+      } else {
+        for (const alias of (bank.aliases ?? [])) {
+          const aliasSvgPath = `./source/${currencyFolder}/${categoryFolder}/${alias}.svg`
+          if (fs.existsSync(aliasSvgPath)) {
+            sourceSvg = aliasSvgPath
+            matchedAlias = alias
+            break
+          }
+        }
       }
+
+      if (sourceSvg === DEFAULT_SVG) {
+        console.warn(`⚠️  No SVG for "${bank.name}" in ${categoryFolder} — using default`)
+      } else if (matchedAlias) {
+        console.warn(`⚠️  "${bank.name}" matched via alias "${matchedAlias}"`)
+      }
+
+      // deduplicate output filename within this currency folder
+      let outputFilename = `${bank.name}.png`
+      if (usedFilenames.has(outputFilename)) {
+        outputFilename = `${bank.name}-1.png`
+      }
+      usedFilenames.add(outputFilename)
+
+      const outputPath = path.join(outputDir, outputFilename)
 
       try {
         await sharp(sourceSvg)

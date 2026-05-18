@@ -4556,7 +4556,7 @@
         {
           "name": "eTRANZACT",
           "aliases": [
-            "eTRANZACT"
+            "eTRANZACT NG"
           ],
           "bankCode": "100006",
           "scCode": "920"
