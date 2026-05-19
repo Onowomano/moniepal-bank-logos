@@ -2,8 +2,7 @@
   {
     "name": "Access Bank Rwanda",
     "aliases": [
-      "Access Bank Rwanda",
-      "Access Rwanda"
+      "Access Bank Rwanda"
     ],
     "bankCode": null,
     "scCode": null,
@@ -43,7 +42,6 @@
   {
     "name": "BPR Bank",
     "aliases": [
-      "BPR Bank",
       "Banque Populaire du Rwanda"
     ],
     "bankCode": null,
