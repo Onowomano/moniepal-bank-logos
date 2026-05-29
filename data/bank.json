@@ -3936,7 +3936,7 @@
           "scCode": null
         },
         {
-          "name": "STANFORD MICROFINANCE BANK",
+          "name": "STANFORD MFB",
           "aliases": [
             "STANFORD MICROFINANCE BANK"
           ],
@@ -3944,7 +3944,7 @@
           "scCode": null
         },
         {
-          "name": "STATESIDE MICROFINANCE BANK",
+          "name": "STATESIDE MFB",
           "aliases": [
             "STATESIDE MICROFINANCE BANK"
           ],
@@ -3954,7 +3954,7 @@
         {
           "name": "Stellas MFB",
           "aliases": [
-            "Stellas MFB"
+            "Stellas Microfinance Bank"
           ],
           "bankCode": "090262",
           "scCode": "51253"
@@ -3962,7 +3962,7 @@
         {
           "name": "Strait Sahara MFB",
           "aliases": [
-            "Strait Sahara MFB"
+            "Strait Sahara Microfinance Bank"
           ],
           "bankCode": "090985",
           "scCode": null
@@ -3970,7 +3970,7 @@
         {
           "name": "Sulspap MFB",
           "aliases": [
-            "Sulspap MFB"
+            "Sulspap Microfinance Bank"
           ],
           "bankCode": "090305",
           "scCode": null
@@ -3978,7 +3978,7 @@
         {
           "name": "Suntop MFB",
           "aliases": [
-            "Suntop MFB"
+            "Suntop Microfinance Bank"
           ],
           "bankCode": "090644",
           "scCode": null
@@ -3986,7 +3986,7 @@
         {
           "name": "Support MFB",
           "aliases": [
-            "Support MFB"
+            "Support Microfinance Bank"
           ],
           "bankCode": "090446",
           "scCode": null
@@ -3994,7 +3994,7 @@
         {
           "name": "Supreme MFB",
           "aliases": [
-            "Supreme MFB"
+            "Supreme Microfinance Bank"
           ],
           "bankCode": "090564",
           "scCode": "50968"
@@ -4002,7 +4002,7 @@
         {
           "name": "Sure Anchor MFB",
           "aliases": [
-            "Sure Anchor MFB"
+            "Sure Anchor Microfinance Bank"
           ],
           "bankCode": "090728",
           "scCode": null
@@ -4010,13 +4010,13 @@
         {
           "name": "SWIFT TRUST MFB",
           "aliases": [
-            "SWIFT TRUST MFB"
+            "SWIFT TRUST Microfinance Bank"
           ],
           "bankCode": "090757",
           "scCode": null
         },
         {
-          "name": "Sycamore Microfinance Bank",
+          "name": "Sycamore MFB",
           "aliases": [
             "Sycamore Microfinance Bank"
           ],
@@ -4034,7 +4034,7 @@
         {
           "name": "Teerus MFB",
           "aliases": [
-            "Teerus MFB"
+            "Teerus Microfinance Bank"
           ],
           "bankCode": "090991",
           "scCode": null
@@ -4042,7 +4042,7 @@
         {
           "name": "Tellerone FI MFB",
           "aliases": [
-            "Tellerone FI MFB"
+            "Tellerone FI Microfinance Bank"
           ],
           "bankCode": "090788",
           "scCode": null
@@ -4050,7 +4050,7 @@
         {
           "name": "TENN MFB",
           "aliases": [
-            "TENN MFB"
+            "TENN Microfinance Bank"
           ],
           "bankCode": "090716",
           "scCode": null
@@ -4058,13 +4058,13 @@
         {
           "name": "The Millennium MFB",
           "aliases": [
-            "The Millennium MFB"
+            "The Millennium Microfinance Bank"
           ],
           "bankCode": "090711",
           "scCode": null
         },
         {
-          "name": "Think Finance Microfinance Bank",
+          "name": "Think Finance MFB",
           "aliases": [
             "Think Finance Microfinance Bank"
           ],
@@ -4098,13 +4098,13 @@
         {
           "name": "Treasures MFB",
           "aliases": [
-            "Treasures MFB"
+            "Treasures Microfinance Bank"
           ],
           "bankCode": "090663",
           "scCode": null
         },
         {
-          "name": "TRUSTBANC J6 MICROFINANCE BANK",
+          "name": "TRUSTBANC J6 MFB",
           "aliases": [
             "TRUSTBANC J6 MICROFINANCE BANK"
           ],
