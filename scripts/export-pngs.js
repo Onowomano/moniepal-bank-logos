@@ -7,11 +7,17 @@ const SIZE = 128
 const DEFAULT_SVG = './source/Default Bank.svg'
 const REPO = 'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main'
 
-// Detects the red question-mark placeholder SVG by its distinctive path signature
+// Detects the red question-mark placeholder SVG by two structural signals that are
+// identical across all known variants: the #DDDBDB circular border path and the
+// #FF0000 question mark fill. Coordinates on the ? glyph vary between Figma exports
+// so we do not match on those.
 function isQuestionMarkPlaceholder(svgPath) {
   try {
     const content = fs.readFileSync(svgPath, 'utf8')
-    return content.includes('M112.023 144.985V143.295')
+    return (
+      content.includes('fill="#DDDBDB"') &&
+      content.includes('fill="#FF0000"')
+    )
   } catch {
     return false
   }

@@ -4426,16 +4426,6 @@
       ],
       "mobile_money": [
         {
-          "name": "9 Payment Service Bank",
-          "aliases": [
-            "9 Payment Service Bank",
-            "9PSB",
-            "9mobile PSB"
-          ],
-          "bankCode": "120001",
-          "scCode": null
-        },
-        {
           "name": "Access Mobile",
           "aliases": [
             "ACCESS MOBILE"
@@ -5199,6 +5189,16 @@
         }
       ],
       "payment_service_banks": [
+         {
+          "name": "9 Payment Service Bank",
+          "aliases": [
+            "9 Payment Service Bank",
+            "9PSB",
+            "9mobile PSB"
+          ],
+          "bankCode": "120001",
+          "scCode": null
+        },
         {
           "name": "Airtel Smartcash PSB",
           "aliases": [
