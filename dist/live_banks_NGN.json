@@ -28,7 +28,7 @@
     ],
     "bankCode": "120001",
     "scCode": null,
-    "category": "mobile_money",
+    "category": "payment_service_banks",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/9%20Payment%20Service%20Bank.png"
   },
   {
