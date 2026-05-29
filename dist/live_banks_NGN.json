@@ -28,7 +28,7 @@
     ],
     "bankCode": "120001",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/9%20Payment%20Service%20Bank.png"
   },
   {
@@ -129,7 +129,7 @@
     ],
     "bankCode": "323",
     "scCode": "323",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access%20Mobile.png"
   },
   {
@@ -140,7 +140,7 @@
     ],
     "bankCode": "927",
     "scCode": "927",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access%20Money.png"
   },
   {
@@ -150,7 +150,7 @@
     ],
     "bankCode": "100052",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access%20Yello%20%26%20Beta.png"
   },
   {
@@ -326,7 +326,7 @@
     ],
     "bankCode": "035A",
     "scCode": "035A",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/ALAT%20by%20WEMA.png"
   },
   {
@@ -866,7 +866,7 @@
     ],
     "bankCode": "110074",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Betastack%20Technologies.png"
   },
   {
@@ -1169,7 +1169,7 @@
     ],
     "bankCode": "100026",
     "scCode": "565",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Carbon.png"
   },
   {
@@ -1249,7 +1249,7 @@
     ],
     "bankCode": "919",
     "scCode": "919",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Cellulant.png"
   },
   {
@@ -1289,7 +1289,7 @@
     ],
     "bankCode": "929",
     "scCode": "929",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Chams%20Mobile.png"
   },
   {
@@ -1335,7 +1335,7 @@
   {
     "name": "Citibank",
     "aliases": [
-      "Citibank"
+      "Citibank Nigeria"
     ],
     "bankCode": "000009",
     "scCode": "023",
@@ -1389,7 +1389,7 @@
     ],
     "bankCode": "100032",
     "scCode": "100032",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Contec%20Global%20(NowNow).png"
   },
   {
@@ -1750,7 +1750,7 @@
     ],
     "bankCode": "935",
     "scCode": "935",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Eartholeum.png"
   },
   {
@@ -1790,7 +1790,7 @@
     ],
     "bankCode": "922",
     "scCode": "922",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/EcoBank%20Express%20Account.png"
   },
   {
@@ -1800,7 +1800,7 @@
     ],
     "bankCode": "307",
     "scCode": "307",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Ecobank%20Mobile.png"
   },
   {
@@ -1810,7 +1810,7 @@
     ],
     "bankCode": "100008",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Ecobank%20Xpress%20Account.png"
   },
   {
@@ -1960,7 +1960,7 @@
     ],
     "bankCode": "100006",
     "scCode": "920",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/eTRANZACT.png"
   },
   {
@@ -2021,7 +2021,7 @@
     ],
     "bankCode": "090328",
     "scCode": "50126",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Eyowo.png"
   },
   {
@@ -2081,7 +2081,7 @@
     ],
     "bankCode": "309",
     "scCode": "309",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/FBN%20MOBILE.png"
   },
   {
@@ -2101,7 +2101,7 @@
     ],
     "bankCode": "100031",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/FCMB%20Easy%20Account.png"
   },
   {
@@ -2181,7 +2181,7 @@
     ],
     "bankCode": "915",
     "scCode": "915",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/FETS-1.png"
   },
   {
@@ -2221,7 +2221,7 @@
     ],
     "bankCode": "933",
     "scCode": "933",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Fidelity%20Mobile.png"
   },
   {
@@ -2361,7 +2361,7 @@
     ],
     "bankCode": "100014",
     "scCode": "928",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/FirstMonie%20Wallet.png"
   },
   {
@@ -2401,7 +2401,7 @@
     ],
     "bankCode": "110002",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Flutterwave.png"
   },
   {
@@ -2441,7 +2441,7 @@
     ],
     "bankCode": "100016",
     "scCode": "930",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Fortis%20Mobile.png"
   },
   {
@@ -2611,7 +2611,7 @@
     ],
     "bankCode": "100022",
     "scCode": "100022",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/GoMoney.png"
   },
   {
@@ -2731,7 +2731,7 @@
     ],
     "bankCode": "923",
     "scCode": "923",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/GT%20Mobile.png"
   },
   {
@@ -2741,7 +2741,7 @@
     ],
     "bankCode": "315",
     "scCode": "315",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/GTBank%20Mobile%20Money.png"
   },
   {
@@ -2853,7 +2853,7 @@
     ],
     "bankCode": "931",
     "scCode": "931",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Hedonmark.png"
   },
   {
@@ -3163,7 +3163,7 @@
     ],
     "bankCode": "100029",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Innovectives%20Kesh.png"
   },
   {
@@ -3183,7 +3183,7 @@
     ],
     "bankCode": "941",
     "scCode": "941",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Intellifin.png"
   },
   {
@@ -3263,7 +3263,7 @@
     ],
     "bankCode": "906",
     "scCode": "906",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Jubilee%20Life.png"
   },
   {
@@ -3283,7 +3283,7 @@
     ],
     "bankCode": "110008",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Kadick%20Integration.png"
   },
   {
@@ -3403,7 +3403,7 @@
     ],
     "bankCode": "100015",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Kegow.png"
   },
   {
@@ -3413,7 +3413,7 @@
     ],
     "bankCode": "100036",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/KEGOW%20(ChamsMobile).png"
   },
   {
@@ -3693,7 +3693,7 @@
     ],
     "bankCode": "100035",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/M36.png"
   },
   {
@@ -3914,7 +3914,7 @@
     ],
     "bankCode": "100011",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Mkudi.png"
   },
   {
@@ -3944,7 +3944,7 @@
     ],
     "bankCode": "934",
     "scCode": "934",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/MoneyBox.png"
   },
   {
@@ -4144,7 +4144,7 @@
     ],
     "bankCode": "999999",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/NIP%20Virtual%20Bank.png"
   },
   {
@@ -4534,7 +4534,7 @@
     ],
     "bankCode": "940",
     "scCode": "940",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/One%20Finance.png"
   },
   {
@@ -4545,18 +4545,8 @@
     ],
     "bankCode": "100004",
     "scCode": "999992",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/OPay%20Digital%20Services%20Limited.png"
-  },
-  {
-    "name": "OPay Digital Services Limited (OPay)",
-    "aliases": [
-      "OPay Digital Services Limited (OPay)"
-    ],
-    "bankCode": "999992",
-    "scCode": null,
-    "category": "mobile_money_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/OPay%20Digital%20Services%20Limited%20(OPay).png"
   },
   {
     "name": "Optimus Bank Limited",
@@ -4675,7 +4665,7 @@
     ],
     "bankCode": "100002",
     "scCode": "916",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Paga.png"
   },
   {
@@ -4685,7 +4675,7 @@
     ],
     "bankCode": "100033",
     "scCode": "999991",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Palmpay.png"
   },
   {
@@ -4706,7 +4696,7 @@
     ],
     "bankCode": "100003",
     "scCode": "311",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/ParkWay-ReadyCash.png"
   },
   {
@@ -4736,7 +4726,7 @@
     ],
     "bankCode": "943",
     "scCode": "943",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/PayAttitude%20Online.png"
   },
   {
@@ -4746,7 +4736,7 @@
     ],
     "bankCode": "305",
     "scCode": "305",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/PAYCOM.png"
   },
   {
@@ -4776,7 +4766,7 @@
     ],
     "bankCode": "100039",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Paystack-Titan.png"
   },
   {
@@ -4897,7 +4887,7 @@
     ],
     "bankCode": "100042",
     "scCode": "00716",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Pocket%20App.png"
   },
   {
@@ -5027,7 +5017,7 @@
     ],
     "bankCode": "090303",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Purplemoney.png"
   },
   {
@@ -5411,7 +5401,7 @@
     ],
     "bankCode": "110034",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Simplify%20Energy.png"
   },
   {
@@ -5551,7 +5541,7 @@
     ],
     "bankCode": "921",
     "scCode": "921",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Stanbic%20IBTC%20%40ease.png"
   },
   {
@@ -5571,7 +5561,7 @@
     ],
     "bankCode": "304",
     "scCode": "304",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Stanbic%20Mobile.png"
   },
   {
@@ -5581,7 +5571,7 @@
     ],
     "bankCode": "100007",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/StanbicMobileMoney.png"
   },
   {
@@ -5651,7 +5641,7 @@
     ],
     "bankCode": "936",
     "scCode": "936",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Sterling%20Mobile.png"
   },
   {
@@ -5761,7 +5751,7 @@
     ],
     "bankCode": "937",
     "scCode": "937",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/TAGPAY.png"
   },
   {
@@ -5791,7 +5781,7 @@
     ],
     "bankCode": "090426",
     "scCode": "51269",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Tangerine%20Money.png"
   },
   {
@@ -5811,7 +5801,7 @@
     ],
     "bankCode": "924",
     "scCode": "924",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Teasy%20MOBILE.png"
   },
   {
@@ -5841,7 +5831,7 @@
     ],
     "bankCode": "51403",
     "scCode": "51403",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/TENN.png"
   },
   {
@@ -5981,7 +5971,7 @@
     ],
     "bankCode": "000040",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/UBA%20MONI.png"
   },
   {
@@ -6221,7 +6211,7 @@
     ],
     "bankCode": "110081",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Unlimit%20Nigeria%20Limited.png"
   },
   {
@@ -6321,7 +6311,7 @@
     ],
     "bankCode": "100012",
     "scCode": "926",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/VT%20Networks.png"
   },
   {
@@ -6411,7 +6401,7 @@
     ],
     "bankCode": "100040",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Xpress%20Wallet.png"
   },
   {
@@ -6421,7 +6411,7 @@
     ],
     "bankCode": "100041",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/XpressMTS.png"
   },
   {
@@ -6451,7 +6441,7 @@
     ],
     "bankCode": "00zap",
     "scCode": "00zap",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Zap.png"
   },
   {
@@ -6491,7 +6481,7 @@
     ],
     "bankCode": "100034",
     "scCode": null,
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Zenith%20Eazy%20Wallet.png"
   },
   {
@@ -6501,7 +6491,7 @@
     ],
     "bankCode": "322",
     "scCode": "322",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/ZENITH%20Mobile.png"
   },
   {
@@ -6511,7 +6501,7 @@
     ],
     "bankCode": "100025",
     "scCode": "939",
-    "category": "mobile_money_banks",
+    "category": "mobile_money",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/ZINTERNET%20-%20KONGAPAY.png"
   },
   {
