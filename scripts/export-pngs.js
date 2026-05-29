@@ -7,6 +7,16 @@ const SIZE = 128
 const DEFAULT_SVG = './source/Default Bank.svg'
 const REPO = 'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main'
 
+// Detects the red question-mark placeholder SVG by its distinctive path signature
+function isQuestionMarkPlaceholder(svgPath) {
+  try {
+    const content = fs.readFileSync(svgPath, 'utf8')
+    return content.includes('M112.023 144.985V143.295')
+  } catch {
+    return false
+  }
+}
+
 fs.mkdirSync('./dist', { recursive: true })
 
 for (const [currency, data] of Object.entries(banks)) {
@@ -25,12 +35,12 @@ for (const [currency, data] of Object.entries(banks)) {
       let sourceSvg = DEFAULT_SVG
       let matchedAlias = null
 
-      if (fs.existsSync(namesvgPath)) {
+      if (fs.existsSync(namesvgPath) && !isQuestionMarkPlaceholder(namesvgPath)) {
         sourceSvg = namesvgPath
       } else {
         for (const alias of (bank.aliases ?? [])) {
           const aliasSvgPath = `./source/${currencyFolder}/${categoryFolder}/${alias}.svg`
-          if (fs.existsSync(aliasSvgPath)) {
+          if (fs.existsSync(aliasSvgPath) && !isQuestionMarkPlaceholder(aliasSvgPath)) {
             sourceSvg = aliasSvgPath
             matchedAlias = alias
             break

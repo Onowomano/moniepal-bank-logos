@@ -4114,17 +4114,9 @@
         {
           "name": "U & C MFB",
           "aliases": [
-            "U And C MFB"
+            "U And C MFB", "U&C Microfinance Bank Ltd"
           ],
           "bankCode": "090315",
-          "scCode": null
-        },
-        {
-          "name": "U&C Microfinance Bank Ltd (U AND C MFB)",
-          "aliases": [
-            "U&C Microfinance Bank Ltd (U AND C MFB)"
-          ],
-          "bankCode": "50840",
           "scCode": "50840"
         },
         {
