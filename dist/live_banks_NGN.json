@@ -5585,24 +5585,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Standard%20Chartered%20Bank.png"
   },
   {
-    "name": "STANFORD MICROFINANCE BANK",
+    "name": "STANFORD MFB",
     "aliases": [
       "STANFORD MICROFINANCE BANK"
     ],
     "bankCode": "090162",
     "scCode": null,
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/STANFORD%20MICROFINANCE%20BANK.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/STANFORD%20MFB.png"
   },
   {
-    "name": "STATESIDE MICROFINANCE BANK",
+    "name": "STATESIDE MFB",
     "aliases": [
       "STATESIDE MICROFINANCE BANK"
     ],
     "bankCode": "50809",
     "scCode": "50809",
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/STATESIDE%20MICROFINANCE%20BANK.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/STATESIDE%20MFB.png"
   },
   {
     "name": "STB Mortgage Bank",
@@ -5617,7 +5617,7 @@
   {
     "name": "Stellas MFB",
     "aliases": [
-      "Stellas MFB"
+      "Stellas Microfinance Bank"
     ],
     "bankCode": "090262",
     "scCode": "51253",
@@ -5647,7 +5647,7 @@
   {
     "name": "Strait Sahara MFB",
     "aliases": [
-      "Strait Sahara MFB"
+      "Strait Sahara Microfinance Bank"
     ],
     "bankCode": "090985",
     "scCode": null,
@@ -5657,7 +5657,7 @@
   {
     "name": "Sulspap MFB",
     "aliases": [
-      "Sulspap MFB"
+      "Sulspap Microfinance Bank"
     ],
     "bankCode": "090305",
     "scCode": null,
@@ -5677,7 +5677,7 @@
   {
     "name": "Suntop MFB",
     "aliases": [
-      "Suntop MFB"
+      "Suntop Microfinance Bank"
     ],
     "bankCode": "090644",
     "scCode": null,
@@ -5697,7 +5697,7 @@
   {
     "name": "Support MFB",
     "aliases": [
-      "Support MFB"
+      "Support Microfinance Bank"
     ],
     "bankCode": "090446",
     "scCode": null,
@@ -5707,7 +5707,7 @@
   {
     "name": "Supreme MFB",
     "aliases": [
-      "Supreme MFB"
+      "Supreme Microfinance Bank"
     ],
     "bankCode": "090564",
     "scCode": "50968",
@@ -5717,7 +5717,7 @@
   {
     "name": "Sure Anchor MFB",
     "aliases": [
-      "Sure Anchor MFB"
+      "Sure Anchor Microfinance Bank"
     ],
     "bankCode": "090728",
     "scCode": null,
@@ -5727,7 +5727,7 @@
   {
     "name": "SWIFT TRUST MFB",
     "aliases": [
-      "SWIFT TRUST MFB"
+      "SWIFT TRUST Microfinance Bank"
     ],
     "bankCode": "090757",
     "scCode": null,
@@ -5735,14 +5735,14 @@
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/SWIFT%20TRUST%20MFB.png"
   },
   {
-    "name": "Sycamore Microfinance Bank",
+    "name": "Sycamore MFB",
     "aliases": [
       "Sycamore Microfinance Bank"
     ],
     "bankCode": "090827",
     "scCode": "51056",
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Sycamore%20Microfinance%20Bank.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Sycamore%20MFB.png"
   },
   {
     "name": "TAGPAY",
@@ -5807,7 +5807,7 @@
   {
     "name": "Teerus MFB",
     "aliases": [
-      "Teerus MFB"
+      "Teerus Microfinance Bank"
     ],
     "bankCode": "090991",
     "scCode": null,
@@ -5817,7 +5817,7 @@
   {
     "name": "Tellerone FI MFB",
     "aliases": [
-      "Tellerone FI MFB"
+      "Tellerone FI Microfinance Bank"
     ],
     "bankCode": "090788",
     "scCode": null,
@@ -5837,7 +5837,7 @@
   {
     "name": "TENN MFB",
     "aliases": [
-      "TENN MFB"
+      "TENN Microfinance Bank"
     ],
     "bankCode": "090716",
     "scCode": null,
@@ -5857,7 +5857,7 @@
   {
     "name": "The Millennium MFB",
     "aliases": [
-      "The Millennium MFB"
+      "The Millennium Microfinance Bank"
     ],
     "bankCode": "090711",
     "scCode": null,
@@ -5865,14 +5865,14 @@
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/The%20Millennium%20MFB.png"
   },
   {
-    "name": "Think Finance Microfinance Bank",
+    "name": "Think Finance MFB",
     "aliases": [
       "Think Finance Microfinance Bank"
     ],
     "bankCode": "677",
     "scCode": "677",
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Think%20Finance%20Microfinance%20Bank.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Think%20Finance%20MFB.png"
   },
   {
     "name": "Titan Trust Bank",
@@ -5917,7 +5917,7 @@
   {
     "name": "Treasures MFB",
     "aliases": [
-      "Treasures MFB"
+      "Treasures Microfinance Bank"
     ],
     "bankCode": "090663",
     "scCode": null,
@@ -5925,14 +5925,14 @@
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Treasures%20MFB.png"
   },
   {
-    "name": "TRUSTBANC J6 MICROFINANCE BANK",
+    "name": "TRUSTBANC J6 MFB",
     "aliases": [
       "TRUSTBANC J6 MICROFINANCE BANK"
     ],
     "bankCode": "51118",
     "scCode": "51118",
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/TRUSTBANC%20J6%20MICROFINANCE%20BANK.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/TRUSTBANC%20J6%20MFB.png"
   },
   {
     "name": "Trustbond Mortgage Bank",
