@@ -5947,22 +5947,13 @@
   {
     "name": "U & C MFB",
     "aliases": [
-      "U And C MFB"
+      "U And C MFB",
+      "U&C Microfinance Bank Ltd"
     ],
     "bankCode": "090315",
-    "scCode": null,
-    "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/U%20%26%20C%20MFB.png"
-  },
-  {
-    "name": "U&C Microfinance Bank Ltd (U AND C MFB)",
-    "aliases": [
-      "U&C Microfinance Bank Ltd (U AND C MFB)"
-    ],
-    "bankCode": "50840",
     "scCode": "50840",
     "category": "microfinance_banks",
-    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/U%26C%20Microfinance%20Bank%20Ltd%20(U%20AND%20C%20MFB).png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/U%20%26%20C%20MFB.png"
   },
   {
     "name": "UBA MONI",
