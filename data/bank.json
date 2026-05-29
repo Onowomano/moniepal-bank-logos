@@ -48,7 +48,7 @@
         {
           "name": "Citibank",
           "aliases": [
-            "Citibank"
+            "Citibank Nigeria"
           ],
           "bankCode": "000009",
           "scCode": "023"
@@ -4432,7 +4432,7 @@
           "scCode": "51373"
         }
       ],
-      "mobile_money_banks": [
+      "mobile_money": [
         {
           "name": "9 Payment Service Bank",
           "aliases": [
@@ -4753,14 +4753,6 @@
           ],
           "bankCode": "100004",
           "scCode": "999992"
-        },
-        {
-          "name": "OPay Digital Services Limited (OPay)",
-          "aliases": [
-            "OPay Digital Services Limited (OPay)"
-          ],
-          "bankCode": "999992",
-          "scCode": null
         },
         {
           "name": "Paga",

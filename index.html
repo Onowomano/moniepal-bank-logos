@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="custom-select" id="bankSelect">
+            <div class="select-trigger">
+                <img class="selected-logo" src="" alt="" hidden>
+                <span class="selected-name">Select a bank</span>
+                <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                    <path fill="#555" d="M6 8L1 3h10z"/>
+                </svg>
+            </div>
+            <div class="dropdown-panel">
+                <input class="search-input" type="text" placeholder="Search banks...">
+                <ul class="options-list"></ul>
+            </div>
+        </div>
+    </div>
+    <script>
+        let allBanks = [];
+
+        const selectEl = document.getElementById('bankSelect');
+        const trigger = selectEl.querySelector('.select-trigger');
+        const searchInput = selectEl.querySelector('.search-input');
+        const optionsList = selectEl.querySelector('.options-list');
+        const selectedLogo = selectEl.querySelector('.selected-logo');
+        const selectedName = selectEl.querySelector('.selected-name');
+
+        fetch('dist/live_banks_NGN.json')
+            .then(res => res.json())
+            .then(data => {
+                allBanks = data;
+                renderOptions(allBanks);
+            });
+
+        trigger.addEventListener('click', () => {
+            selectEl.classList.toggle('open');
+            if (selectEl.classList.contains('open')) searchInput.focus();
+        });
+
+        document.addEventListener('click', e => {
+            if (!selectEl.contains(e.target)) selectEl.classList.remove('open');
+        });
+
+        searchInput.addEventListener('input', () => {
+            const query = searchInput.value.toLowerCase();
+            const filtered = allBanks.filter(bank => {
+                if (bank.name.toLowerCase().includes(query)) return true;
+                return bank.aliases && bank.aliases.some(a => a.toLowerCase().includes(query));
+            });
+            renderOptions(filtered);
+        });
+
+        function renderOptions(list) {
+            optionsList.innerHTML = '';
+            if (list.length === 0) {
+                optionsList.innerHTML = '<li class="no-results">No banks found</li>';
+                return;
+            }
+            list.forEach(bank => {
+                const li = document.createElement('li');
+                li.className = 'option';
+                const img = document.createElement('img');
+                img.src = bank.logo;
+                img.alt = bank.name;
+                img.onerror = () => { img.style.visibility = 'hidden'; };
+                const span = document.createElement('span');
+                span.textContent = bank.name;
+                li.appendChild(img);
+                li.appendChild(span);
+                li.addEventListener('click', () => selectBank(bank));
+                optionsList.appendChild(li);
+            });
+        }
+
+        function selectBank(bank) {
+            selectedName.textContent = bank.name;
+            selectedLogo.src = bank.logo;
+            selectedLogo.alt = bank.name;
+            selectedLogo.hidden = false;
+            selectEl.classList.remove('open');
+            searchInput.value = '';
+            renderOptions(allBanks);
+        }
+    </script>
+</body>
+</html>
