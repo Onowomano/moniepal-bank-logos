@@ -19,24 +19,24 @@ Logos are served via jsDelivr directly from this GitHub repository. No setup req
 
 **URL pattern:**
 ```
-https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/{currency}/{bank name} - {bankCode}.png
+https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/{bank name}.png
 ```
 
 **Examples:**
 ```
-https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/ngn/Access Bank Nigeria - 000014.png
-https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/rwf/Access Bank Rwanda - 000001.png
+https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access Bank Nigeria.png
+https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/rwf/Access Bank Rwanda.png
 ```
 
 You can use these URLs directly in any `<img>` tag or `Image` component — no installation needed.
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/ngn/Access Bank Nigeria - 000014.png" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@mainn/logos/ngn/Access Bank Nigeria - 000014.png" width="48" />
 ```
 
 ```jsx
 <Image
-  source={{ uri: 'https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/ngn/Access Bank Nigeria - 000014.png' }}
+  source={{ uri: 'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access Bank Nigeria.png' }}
   style={{ width: 48, height: 48 }}
 />
 ```
@@ -51,7 +51,7 @@ The easiest way to use this library is via the pre-built JSON files. Each file c
 
 ```javascript
 const response = await fetch(
-  'https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/dist/live_banks_NGN.json'
+  'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/dist/live_banks_NGN.json'
 )
 const banks = await response.json()
 ```
@@ -65,8 +65,8 @@ const banks = await response.json()
     "aliases": ["Access Bank Nigeria"],
     "bankCode": "000014",
     "scCode": "044",
-    "logoSquare": "https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/ngn/Access Bank Nigeria - 000014.png",
-    "logoCircle": "https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/logos/ngn/circle/Access Bank Nigeria - 000014.png"
+    "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Access Bank Nigeria.png",
+
   }
 ]
 ```
@@ -75,8 +75,8 @@ const banks = await response.json()
 
 | Currency | URL |
 |---|---|
-| NGN (Nigeria) | `https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/dist/live_banks_NGN.json` |
-| RWF (Rwanda) | `https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/dist/live_banks_RWF.json` |
+| NGN (Nigeria) | `https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/dist/live_banks_NGN.json` |
+| RWF (Rwanda) | `https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/dist/live_banks_RWF.json` |
 
 ---
 
@@ -88,7 +88,7 @@ The recommended approach is to enrich your bank list on the backend once, so eve
 // Node.js backend example
 const paystack = await getPaystackBanks()
 const { data: iconBanks } = await fetch(
-  'https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/dist/live_banks_NGN.json'
+  'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/dist/live_banks_NGN.json'
 ).then(r => r.json())
 
 const enriched = paystack.map(bank => {
@@ -110,7 +110,7 @@ Your API response now includes logo URLs. The frontend just renders them — no 
 If you prefer to handle the logo lookup on the frontend:
 
 ```javascript
-import banks from 'https://cdn.jsdelivr.net/gh/{your-username}/{your-repo}@main/dist/live_banks_NGN.json' assert { type: 'json' }
+import banks from 'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/dist/live_banks_NGN.json' assert { type: 'json' }
 
 function getLogo(bankCode, style = 'square') {
   const bank = banks.find(b => b.scCode === bankCode || b.bankCode === bankCode)

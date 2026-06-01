@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 
 const banks = JSON.parse(fs.readFileSync('./data/bank.json', 'utf8'))
-const SIZE = 128
+const SIZE = 200
 const DEFAULT_SVG = './source/Default Bank.svg'
 const REPO = 'https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main'
 

@@ -1260,17 +1260,9 @@
           "scCode": null
         },
         {
-          "name": "Bridgeway Microfinance Bank",
-          "aliases": [
-            "Bridgeway Microfinance Bank"
-          ],
-          "bankCode": "090393",
-          "scCode": null
-        },
-        {
           "name": "Brightway Microfinance Bank",
           "aliases": [
-            "Brightway Microfinance Bank"
+            "Brightway MFB"
           ],
           "bankCode": "090308",
           "scCode": null
@@ -1278,7 +1270,7 @@
         {
           "name": "Build MFB",
           "aliases": [
-            "Build MFB"
+            "Build Microfinance Bank"
           ],
           "bankCode": "090613",
           "scCode": null
@@ -1286,7 +1278,7 @@
         {
           "name": "Bundi MFB",
           "aliases": [
-            "Bundi MFB"
+            "Bundi Microfinance Bank"
           ],
           "bankCode": "090661",
           "scCode": null
@@ -1310,7 +1302,7 @@
         {
           "name": "Bway MFB",
           "aliases": [
-            "Bway MFB"
+            "Bway Microfiance Bank", "Bridgeway MFB"
           ],
           "bankCode": "090774",
           "scCode": null
@@ -1482,14 +1474,6 @@
           ],
           "bankCode": "090365",
           "scCode": "50204"
-        },
-        {
-          "name": "Covenant Microfinance Bank",
-          "aliases": [
-            "Covenant Microfinance Bank"
-          ],
-          "bankCode": "949",
-          "scCode": "949"
         },
         {
           "name": "Credit Afrique Microfinance Bank",
@@ -3127,19 +3111,12 @@
         {
           "name": "NSUK MFB",
           "aliases": [
-            "NSUK MFB"
+           "NSUK MICROFINANACE BANK"
           ],
           "bankCode": "090491",
-          "scCode": null
-        },
-        {
-          "name": "NSUK MICROFINANACE BANK",
-          "aliases": [
-            "NSUK MICROFINANACE BANK"
-          ],
-          "bankCode": "51261",
           "scCode": "51261"
         },
+      
         {
           "name": "Nsukka MFB",
           "aliases": [
@@ -4130,7 +4107,7 @@
         {
           "name": "UCEE MFB",
           "aliases": [
-            "UCEE MFB"
+            "UCEE Microfinance Bank"
           ],
           "bankCode": "090706",
           "scCode": null
@@ -4306,23 +4283,15 @@
         {
           "name": "Uzondu MFB",
           "aliases": [
-            "Uzondu MFB"
-          ],
-          "bankCode": "090453",
-          "scCode": null
-        },
-        {
-          "name": "Uzondu Microfinance Bank Awka Anambra State",
-          "aliases": [
             "Uzondu Microfinance Bank Awka Anambra State"
           ],
-          "bankCode": "50894",
+          "bankCode": "090453",
           "scCode": "50894"
         },
         {
           "name": "VFD Microfinance Bank Limited",
           "aliases": [
-            "VFD Microfinance Bank Limited"
+            "VFD MFB"
           ],
           "bankCode": "090110",
           "scCode": "566"
@@ -4512,14 +4481,6 @@
           "scCode": "935"
         },
         {
-          "name": "EcoBank Express Account",
-          "aliases": [
-            "EcoBank Express Account"
-          ],
-          "bankCode": "922",
-          "scCode": "922"
-        },
-        {
           "name": "Ecobank Mobile",
           "aliases": [
             "Ecobank Mobile"
@@ -4533,7 +4494,7 @@
             "Ecobank Xpress Account"
           ],
           "bankCode": "100008",
-          "scCode": null
+          "scCode": "922"
         },
         {
           "name": "eTRANZACT",
@@ -4553,9 +4514,9 @@
           "scCode": "50126"
         },
         {
-          "name": "FBN MOBILE",
+          "name": "FBN Mobile",
           "aliases": [
-            "FBN MOBILE"
+            "First Bank Mobile"
           ],
           "bankCode": "309",
           "scCode": "309"
@@ -4683,7 +4644,7 @@
         {
           "name": "KEGOW (ChamsMobile)",
           "aliases": [
-            "KEGOW (ChamsMobile)"
+            "Kegow"
           ],
           "bankCode": "100036",
           "scCode": null
@@ -5014,10 +4975,10 @@
         {
           "name": "Covenant MFB",
           "aliases": [
-            "Covenant MFB"
+            "Covenant MFB", "Covenant Microfinance Bank"
           ],
           "bankCode": "070006",
-          "scCode": null
+          "scCode": "949"
         },
         {
           "name": "Delta Trust Mortgage Bank",
@@ -5074,14 +5035,6 @@
           ],
           "bankCode": "070025",
           "scCode": "90012"
-        },
-        {
-          "name": "Imperial Homes Mortgage Bank",
-          "aliases": [
-            "Imperial Homes Mortgage Bank"
-          ],
-          "bankCode": "415",
-          "scCode": "415"
         },
         {
           "name": "Imperial Homes Mortgage Bank",
