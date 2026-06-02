@@ -1,0 +1,3068 @@
+[
+  {
+    "bankName": "Kuda.",
+    "bankCode": "090267",
+    "scCode": "50211",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/kuda.png"
+  },
+  {
+    "bankName": "5TT MFB",
+    "bankCode": "090832",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/5TT-MFB.png"
+  },
+  {
+    "bankName": "78 Finance Company Limited",
+    "bankCode": "110072",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/78-Finance-Company.png"
+  },
+  {
+    "bankName": "9 Payment Service Bank (9PSB)",
+    "bankCode": "120001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/9psb.png"
+  },
+  {
+    "bankName": "9jaPay MFB",
+    "bankCode": "090629",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Amegy-MFB.png"
+  },
+  {
+    "bankName": "AACB MFB",
+    "bankCode": "091013",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Abbey Mortgage Bank",
+    "bankCode": "070010",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/abbey_mortgage_bank.png"
+  },
+  {
+    "bankName": "ABSU MFB",
+    "bankCode": "090640",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ABSU-MFB.png"
+  },
+  {
+    "bankName": "Access Bank",
+    "bankCode": "000014",
+    "scCode": "044",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/access.png"
+  },
+  {
+    "bankName": "Access Bank PLC (Diamond)",
+    "bankCode": "000005",
+    "scCode": "063",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/access.png"
+  },
+  {
+    "bankName": "ACCION MFB",
+    "bankCode": "090134",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/accion_mfb.png"
+  },
+  {
+    "bankName": "Ada MFB",
+    "bankCode": "090483",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ada-MFB.png"
+  },
+  {
+    "bankName": "Adamawa Mortgage Bank",
+    "bankCode": "070030",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Advancly MFB",
+    "bankCode": "090759",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Advancly-MFB.png"
+  },
+  {
+    "bankName": "Advans La Fayette MFB",
+    "bankCode": "090155",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Advans-MFB.png"
+  },
+  {
+    "bankName": "Aella MFB",
+    "bankCode": "090614",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Aella-MFB.png"
+  },
+  {
+    "bankName": "Afole MFB",
+    "bankCode": "091017",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "AG Mortgage Bank",
+    "bankCode": "100028",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/AG-Mortgage-MFB.png"
+  },
+  {
+    "bankName": "Akalabo MFB",
+    "bankCode": "090698",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "AKSU MFB",
+    "bankCode": "090756",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Aksu-MFB.png"
+  },
+  {
+    "bankName": "Aku Diewa MFB",
+    "bankCode": "091009",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Aku MFB",
+    "bankCode": "090531",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Akubank.png"
+  },
+  {
+    "bankName": "AL-BARAKAH MFB",
+    "bankCode": "090133",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Alert MFB",
+    "bankCode": "090297",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Alert-MFB.png"
+  },
+  {
+    "bankName": "Alpha Morgan Bank",
+    "bankCode": "000041",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Alpha-Morgan-Bank.png"
+  },
+  {
+    "bankName": "Alternative Bank Limited",
+    "bankCode": "000037",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Alternative-Bank.png"
+  },
+  {
+    "bankName": "Amaanah Finance",
+    "bankCode": "050045",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "AMAC MFB",
+    "bankCode": "090394",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Amac-MFB.png"
+  },
+  {
+    "bankName": "Ample MFB",
+    "bankCode": "090770",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ample_mfb_480.png"
+  },
+  {
+    "bankName": "AMS Finance",
+    "bankCode": "050048",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "ANIOMA MFB",
+    "bankCode": "090751",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ANIOMA-MFB.png"
+  },
+  {
+    "bankName": "Apex Trust MFB",
+    "bankCode": "090737",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Apex-Trust-MFB.png"
+  },
+  {
+    "bankName": "ArcPay MFB",
+    "bankCode": "090689",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Prospects-MFB.png"
+  },
+  {
+    "bankName": "ARM MFB",
+    "bankCode": "090816",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ARM-MFB.png"
+  },
+  {
+    "bankName": "Ascensia Finance",
+    "bankCode": "050040",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ascencia-Finance.png"
+  },
+  {
+    "bankName": "Asha MFB",
+    "bankCode": "091018",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Aspire Mortgage Bank",
+    "bankCode": "070033",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Aspire-Mortgage-Bank.png"
+  },
+  {
+    "bankName": "Asset Matrix MFB",
+    "bankCode": "090287",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Asset-Matrix-MFB.png"
+  },
+  {
+    "bankName": "Assets MFB",
+    "bankCode": "090473",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Assets-MFB.png"
+  },
+  {
+    "bankName": "Auchi Poly MFB",
+    "bankCode": "090817",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Auchi-Poly-MFB.png"
+  },
+  {
+    "bankName": "Avest MFB",
+    "bankCode": "091012",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Avuenegbe MFB",
+    "bankCode": "090478",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Avuenegbe-MFB.png"
+  },
+  {
+    "bankName": "Avvic MFB",
+    "bankCode": "090853",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Avvic-MFB.png"
+  },
+  {
+    "bankName": "Awacash MFB",
+    "bankCode": "090633",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Awacash-MFB.png"
+  },
+  {
+    "bankName": "Awesome MFB",
+    "bankCode": "090662",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Aztec MFB",
+    "bankCode": "090540",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Aztec-MFB.png"
+  },
+  {
+    "bankName": "Babcock MFB",
+    "bankCode": "090729",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Baige MFB",
+    "bankCode": "090862",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Baige-MFB.png"
+  },
+  {
+    "bankName": "Baines Credit MFB",
+    "bankCode": "090188",
+    "scCode": "51229",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/bainescredit_mfb.png"
+  },
+  {
+    "bankName": "Bam MFB",
+    "bankCode": "090651",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/BAM-MFB.png"
+  },
+  {
+    "bankName": "Banc Corp MFB",
+    "bankCode": "090581",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Banc-Corp-MFB.png"
+  },
+  {
+    "bankName": "Bank of Agriculture",
+    "bankCode": "090367",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bank-of-Agriculture.png"
+  },
+  {
+    "bankName": "Bank78 MFB",
+    "bankCode": "090866",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Bankeasy MFB",
+    "bankCode": "090789",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/BankEasy-MFB.png"
+  },
+  {
+    "bankName": "Bankit MFB",
+    "bankCode": "090275",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Bankly MFB",
+    "bankCode": "090529",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bankly.png"
+  },
+  {
+    "bankName": "Baobab MFB",
+    "bankCode": "090136",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Baobab-MFB.png"
+  },
+  {
+    "bankName": "Barnawa MFB",
+    "bankCode": "090783",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Barnawa-MFB.png"
+  },
+  {
+    "bankName": "Bauchi CFA MFB",
+    "bankCode": "090387",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Beamer MFB",
+    "bankCode": "090591",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Gabysn-MFB.png"
+  },
+  {
+    "bankName": "Bellbank MFB",
+    "bankCode": "090672",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Benysta Microfinance Bank",
+    "bankCode": "090413",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Benysta-MFB.png"
+  },
+  {
+    "bankName": "Berachah MFB",
+    "bankCode": "090618",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Berahchah-MFB.png"
+  },
+  {
+    "bankName": "Beststar MFB",
+    "bankCode": "090615",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Best-Star-MFB.png"
+  },
+  {
+    "bankName": "Betastack Technologies",
+    "bankCode": "110074",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Betastack-Technologies.png"
+  },
+  {
+    "bankName": "Bethel MFB",
+    "bankCode": "090683",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "BKD New MFB",
+    "bankCode": "090722",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Bloc MFB",
+    "bankCode": "090977",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Blooms MFB",
+    "bankCode": "090743",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Bobble MFB",
+    "bankCode": "090617",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Kopo-Kope-MFB.png"
+  },
+  {
+    "bankName": "Boctrust MFB",
+    "bankCode": "090117",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Boctrust-MFB.png"
+  },
+  {
+    "bankName": "Bokkos MFB",
+    "bankCode": "090703",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bokkos-MFB.png"
+  },
+  {
+    "bankName": "Bold MFB",
+    "bankCode": "090753",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bold-MFB.png"
+  },
+  {
+    "bankName": "Boost MFB",
+    "bankCode": "090819",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Borgu MFB",
+    "bankCode": "090395",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/BORGU-MFB.png"
+  },
+  {
+    "bankName": "Boromu MFB",
+    "bankCode": "090501",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Boromu-MFB.png"
+  },
+  {
+    "bankName": "Borstal MFB",
+    "bankCode": "090454",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Borstal-MFB.png"
+  },
+  {
+    "bankName": "Bosak MFB",
+    "bankCode": "090176",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bosak-MFB.png"
+  },
+  {
+    "bankName": "Bowen MFB",
+    "bankCode": "090148",
+    "scCode": "50931",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/bowen_mfb.png"
+  },
+  {
+    "bankName": "Bowman MFB",
+    "bankCode": "090804",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bowman-MFB.png"
+  },
+  {
+    "bankName": "Branch International Finance Company Limited",
+    "bankCode": "050006",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Branch.png"
+  },
+  {
+    "bankName": "Build MFB",
+    "bankCode": "090613",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Build-MFB.png"
+  },
+  {
+    "bankName": "Bundi MFB",
+    "bankCode": "090661",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bundi-MFB.png"
+  },
+  {
+    "bankName": "Bunkure MFB",
+    "bankCode": "090655",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "BuyPower MFB",
+    "bankCode": "090682",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/BuyPower-MFB.png"
+  },
+  {
+    "bankName": "Bway MFB",
+    "bankCode": "090774",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Bway-MFB.png"
+  },
+  {
+    "bankName": "Canaan MFB",
+    "bankCode": "090647",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Canaan-MFB.png"
+  },
+  {
+    "bankName": "Capitalmetriq Swift Microfinance Bank",
+    "bankCode": "090509",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/CapitalMetriq-Swift-MFB-(1).png"
+  },
+  {
+    "bankName": "Capstone MFB",
+    "bankCode": "090445",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Capstone-MFB.png"
+  },
+  {
+    "bankName": "Carbon",
+    "bankCode": "100026",
+    "scCode": "565",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/carbon.png"
+  },
+  {
+    "bankName": "Cardinalstone",
+    "bankCode": "050017",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Cardinalstone.png"
+  },
+  {
+    "bankName": "Casa MFB",
+    "bankCode": "090840",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Casa-MFB.png"
+  },
+  {
+    "bankName": "Casha MFB",
+    "bankCode": "090848",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Cashbridge Microfinance Bank",
+    "bankCode": "090634",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "CashConnect MFB",
+    "bankCode": "090360",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/CashConnect-MFB.png"
+  },
+  {
+    "bankName": "CashRite MFB",
+    "bankCode": "090649",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/CashRite-MFB.png"
+  },
+  {
+    "bankName": "Cedrus MFB",
+    "bankCode": "090851",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Cedrus-MFB.png"
+  },
+  {
+    "bankName": "CENTRUM FINANCE",
+    "bankCode": "050032",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Centrum-Finance.png"
+  },
+  {
+    "bankName": "Ceviant Finance Limited",
+    "bankCode": "050043",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Chanelle-MFB",
+    "bankCode": "090397",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Chanelle-MFB.png"
+  },
+  {
+    "bankName": "Charis MFB",
+    "bankCode": "090815",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Charis-MFB.png"
+  },
+  {
+    "bankName": "Chase MFB",
+    "bankCode": "090523",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/chase_mfb_480.png"
+  },
+  {
+    "bankName": "Citi Bank",
+    "bankCode": "000009",
+    "scCode": "023",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/citibank.png"
+  },
+  {
+    "bankName": "Citycode Mortgage Bank",
+    "bankCode": "070027",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Citycode-Mortgage-Bank.png"
+  },
+  {
+    "bankName": "Clearpay MFB",
+    "bankCode": "090482",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Fedeth-MFB.png"
+  },
+  {
+    "bankName": "Consistent Trust MFB (CTMFB)",
+    "bankCode": "090553",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ConsistentTrust-MFB.png"
+  },
+  {
+    "bankName": "Consumer MFB",
+    "bankCode": "090130",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Consumer-MFB.png"
+  },
+  {
+    "bankName": "Cool MFB",
+    "bankCode": "090842",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Cool-MFB.png"
+  },
+  {
+    "bankName": "COOPFUND MFB",
+    "bankCode": "090717",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "CoreStep MicroFinance Bank",
+    "bankCode": "090365",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/corestep_mfb.png"
+  },
+  {
+    "bankName": "Coronation",
+    "bankCode": "060001",
+    "scCode": "559",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/coronation.png"
+  },
+  {
+    "bankName": "County Finance Limited",
+    "bankCode": "050001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Country-Finance-MFB.png"
+  },
+  {
+    "bankName": "Covenant MFB",
+    "bankCode": "070006",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Covenant-MFB.png"
+  },
+  {
+    "bankName": "Credit Direct",
+    "bankCode": "110049",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Credit-Direct.png"
+  },
+  {
+    "bankName": "Creditville MFB",
+    "bankCode": "090611",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Creditville-MFB.png"
+  },
+  {
+    "bankName": "Crystal Finance Company Limited",
+    "bankCode": "050029",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Crystal-Finance-Company.png"
+  },
+  {
+    "bankName": "Dabtikir MFB",
+    "bankCode": "090802",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Daily Trust MFB",
+    "bankCode": "090705",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Dal MFB",
+    "bankCode": "090596",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Dash MFB",
+    "bankCode": "090845",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Dash-MFB.png"
+  },
+  {
+    "bankName": "Davenport MFB",
+    "bankCode": "090673",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Davenport-1.png"
+  },
+  {
+    "bankName": "Daylight Microfinance Bank",
+    "bankCode": "090167",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/daylight_mfb_480.png"
+  },
+  {
+    "bankName": "Dayspring MFB",
+    "bankCode": "090873",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Dec-Enugu MFB",
+    "bankCode": "090995",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Delta Trust Mortgage Bank",
+    "bankCode": "070023",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DeltaTrust-Mortgage-Bank.png"
+  },
+  {
+    "bankName": "Destiny MFB",
+    "bankCode": "090723",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Destiny_MFB.png"
+  },
+  {
+    "bankName": "Dew MFB",
+    "bankCode": "090978",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Digitvant MFB",
+    "bankCode": "090745",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Digitvant-MFB.png"
+  },
+  {
+    "bankName": "Dillon MFB",
+    "bankCode": "090828",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Dillion-MFB.png"
+  },
+  {
+    "bankName": "Doje MFB",
+    "bankCode": "090404",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Doje-MFB.png"
+  },
+  {
+    "bankName": "DOT MFB",
+    "bankCode": "090470",
+    "scCode": "50162",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DOT_MFB.png"
+  },
+  {
+    "bankName": "DSC Microfinance Bank",
+    "bankCode": "090821",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DSC-MFB.png"
+  },
+  {
+    "bankName": "Duxbank MFB",
+    "bankCode": "090847",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Duxbank-MFB.png"
+  },
+  {
+    "bankName": "DW MFB",
+    "bankCode": "090721",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "e-BARCs MFB",
+    "bankCode": "090156",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ebarcs_mfb.png"
+  },
+  {
+    "bankName": "Earnwell MFB",
+    "bankCode": "090674",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Earnwell-MFB.png"
+  },
+  {
+    "bankName": "Eastman MFB",
+    "bankCode": "090707",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Eastman-MFB.png"
+  },
+  {
+    "bankName": "Ecobank Bank",
+    "bankCode": "000010",
+    "scCode": "050",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ecobank.png"
+  },
+  {
+    "bankName": "Ecobank Xpress Account",
+    "bankCode": "100008",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ecobank.png"
+  },
+  {
+    "bankName": "Ehinoma MFB",
+    "bankCode": "091004",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ejindu MFB",
+    "bankCode": "090694",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ekondo MFB",
+    "bankCode": "090097",
+    "scCode": "562",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ekondo_mfb.png"
+  },
+  {
+    "bankName": "Ekwulobia MFB",
+    "bankCode": "091010",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ellington Microfinance Bank",
+    "bankCode": "090811",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ellington-Microfinance-Bank.png"
+  },
+  {
+    "bankName": "Emaar MFB",
+    "bankCode": "090712",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Emaar_MFB.png"
+  },
+  {
+    "bankName": "Eminence MFB",
+    "bankCode": "091002",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Entity MFB",
+    "bankCode": "090656",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Entity-MFB.png"
+  },
+  {
+    "bankName": "Equator MFB",
+    "bankCode": "090872",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ethica MFB",
+    "bankCode": "090982",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "eTranzact",
+    "bankCode": "100006",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Evib Finance",
+    "bankCode": "050034",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Evib-Finance.png"
+  },
+  {
+    "bankName": "Excel Microfinance Bank",
+    "bankCode": "090678",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Excel-MFB.png"
+  },
+  {
+    "bankName": "Excellent Microfinance Bank",
+    "bankCode": "090541",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Excellent-MFB.png"
+  },
+  {
+    "bankName": "Factoring and Supply Chain Finance Limited",
+    "bankCode": "050042",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "FairMoney MFB",
+    "bankCode": "090551",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Fairmoney.png"
+  },
+  {
+    "bankName": "Fame MFB",
+    "bankCode": "090330",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/FAME-MFB.png"
+  },
+  {
+    "bankName": "Fast Credit Limited",
+    "bankCode": "050009",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Fast-Credit-Limited.png"
+  },
+  {
+    "bankName": "FCMB",
+    "bankCode": "000003",
+    "scCode": "214",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fcmb.png"
+  },
+  {
+    "bankName": "FCMB MFB",
+    "bankCode": "090409",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fcmb.png"
+  },
+  {
+    "bankName": "Federal Polytechnic Nekede MFB",
+    "bankCode": "090398",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/FedPoly-Nekede-MFB.png"
+  },
+  {
+    "bankName": "FETS",
+    "bankCode": "100001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/FET.png"
+  },
+  {
+    "bankName": "Fewchore Finance",
+    "bankCode": "050003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Fewchore-Finance.png"
+  },
+  {
+    "bankName": "FFS Microfinance Bank",
+    "bankCode": "090153",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ffs_mfb.png"
+  },
+  {
+    "bankName": "Fidelity Bank",
+    "bankCode": "000007",
+    "scCode": "070",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fidelity.png"
+  },
+  {
+    "bankName": "Fidelity Mobile",
+    "bankCode": "100019",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fidelity-mobile.png"
+  },
+  {
+    "bankName": "Firmus MFB",
+    "bankCode": "090366",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Firmus-MFB.png"
+  },
+  {
+    "bankName": "First Ally MFB",
+    "bankCode": "090135",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/First-Ally-MFB.png"
+  },
+  {
+    "bankName": "First Bank of Nigeria",
+    "bankCode": "000016",
+    "scCode": "011",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fbn-quest.png"
+  },
+  {
+    "bankName": "First Lowland MFB",
+    "bankCode": "090868",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "First Marina Trust Finance",
+    "bankCode": "050022",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/First-Marina-Trust-Limited.png"
+  },
+  {
+    "bankName": "First trust Mortgage Bank",
+    "bankCode": "090107",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/First-Trust-Mortgage-Bank.png"
+  },
+  {
+    "bankName": "Firstmonie Wallet",
+    "bankCode": "100014",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Firstmonie.png"
+  },
+  {
+    "bankName": "Fit MFB",
+    "bankCode": "090856",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Flexi MFB",
+    "bankCode": "090835",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Flexi-MFB.png"
+  },
+  {
+    "bankName": "Flutterwave MFB",
+    "bankCode": "090567",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Flutterwave-MFB.png"
+  },
+  {
+    "bankName": "FOCUS MFB",
+    "bankCode": "090709",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Foresight Microfinance Bank",
+    "bankCode": "090521",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Fortismobile",
+    "bankCode": "100016",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Fortis-Mobile.png"
+  },
+  {
+    "bankName": "FSDH Merchant Bank",
+    "bankCode": "400001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/fsdh-(1).png"
+  },
+  {
+    "bankName": "FUD MFB",
+    "bankCode": "090318",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/FUD-MFB.png"
+  },
+  {
+    "bankName": "Gadol Finance",
+    "bankCode": "050033",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Gadol-Finance.png"
+  },
+  {
+    "bankName": "Gateway Mortgage Bank",
+    "bankCode": "070009",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "GDL Finance",
+    "bankCode": "050026",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/GDL-Finance.png"
+  },
+  {
+    "bankName": "Giant Stride MFB",
+    "bankCode": "090475",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Global Trust Savings and Loans Limited",
+    "bankCode": "070032",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Globus Bank",
+    "bankCode": "000027",
+    "scCode": "00103",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/globus_bank.png"
+  },
+  {
+    "bankName": "Gobarau MFB",
+    "bankCode": "091001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Goldman MFB",
+    "bankCode": "090574",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/goldman_mfb_480.png"
+  },
+  {
+    "bankName": "Gombe MFB",
+    "bankCode": "090586",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "GoMoney",
+    "bankCode": "100022",
+    "scCode": "100022",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/gomoney.png"
+  },
+  {
+    "bankName": "Goodshepherd MFB",
+    "bankCode": "090664",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Good-shepherd-MFB.png"
+  },
+  {
+    "bankName": "Gosifechukwu MFB",
+    "bankCode": "090687",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/GOSIFECHUKWU-MFB.png"
+  },
+  {
+    "bankName": "Grants Microfinance Bank",
+    "bankCode": "90335",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Grants-MFB.png"
+  },
+  {
+    "bankName": "Granule MFB",
+    "bankCode": "090857",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Greenacres MFB ",
+    "bankCode": "090599",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Greenacres-MFB.png"
+  },
+  {
+    "bankName": "Greenwich Merchant Bank",
+    "bankCode": "060004",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Greenwich-Merchant-Bank.png"
+  },
+  {
+    "bankName": "Griffin Finance",
+    "bankCode": "050041",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Griffin-Finance.png"
+  },
+  {
+    "bankName": "Grooming MFB ",
+    "bankCode": "090195",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Grooming-MFB.png"
+  },
+  {
+    "bankName": "GTBank Plc",
+    "bankCode": "000013",
+    "scCode": "058",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/gtb.png"
+  },
+  {
+    "bankName": "GTI MFB",
+    "bankCode": "090385",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/GTI.png"
+  },
+  {
+    "bankName": "Gwong MFB",
+    "bankCode": "090500",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Gwong-MFB.png"
+  },
+  {
+    "bankName": "Haggai Mortgage Bank",
+    "bankCode": "070017",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Haggai-Mortgage-Bank-(1).png"
+  },
+  {
+    "bankName": "Halo MFB",
+    "bankCode": "090539",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Halo-MFB.png"
+  },
+  {
+    "bankName": "Hamada MFB",
+    "bankCode": "090980",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Hayat Trust MFB",
+    "bankCode": "090777",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Hedge MFB",
+    "bankCode": "091025",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "HILLPOST MFB",
+    "bankCode": "090761",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Hillpost-MFB.png"
+  },
+  {
+    "bankName": "Hope PSB",
+    "bankCode": "120002",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Hope-PSB.png"
+  },
+  {
+    "bankName": "I-Monie MFB",
+    "bankCode": "090426",
+    "scCode": "51269",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/tangerine_money.png"
+  },
+  {
+    "bankName": "Ibbu MFB",
+    "bankCode": "090697",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/IBBU-MFB.png"
+  },
+  {
+    "bankName": "Ibom Mortgage Bank",
+    "bankCode": "070025",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Igbo- Ukwu MFB",
+    "bankCode": "090803",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ihiala MFB",
+    "bankCode": "090725",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ihiala_MFB.png"
+  },
+  {
+    "bankName": "Ijare MFB",
+    "bankCode": "090730",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ijare-MFB.png"
+  },
+  {
+    "bankName": "Ikere MFB",
+    "bankCode": "090799",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ikere-MFB.png"
+  },
+  {
+    "bankName": "Ikire MFB",
+    "bankCode": "090279",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ikire-MFB.png"
+  },
+  {
+    "bankName": "Ikorodu Division MFB",
+    "bankCode": "090844",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ikorodu-Division-MFB.png"
+  },
+  {
+    "bankName": "Ikoyi ile MFB",
+    "bankCode": "090681",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ile Oluji MFB",
+    "bankCode": "090710",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ile_Oluji_MFB.png"
+  },
+  {
+    "bankName": "Ilishan MFB",
+    "bankCode": "090037",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ilora MFB",
+    "bankCode": "090430",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ilora-MFB.png"
+  },
+  {
+    "bankName": "ILUTITUN-OSORO MFB",
+    "bankCode": "090834",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Imowo MFB",
+    "bankCode": "090417",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Imowo_MFB.png"
+  },
+  {
+    "bankName": "Imperial Homes Mortgage Bank",
+    "bankCode": "100024",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Imperial-Homes-Mortgage_Bank.png"
+  },
+  {
+    "bankName": "IMSU MFB",
+    "bankCode": "090670",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/IMSU-MFB.png"
+  },
+  {
+    "bankName": "Indulge MFB",
+    "bankCode": "090772",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Indulge-MFB.png"
+  },
+  {
+    "bankName": "Ineba Gogo MFB",
+    "bankCode": "090838",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ineba-Gogo-MFB.png"
+  },
+  {
+    "bankName": "Innovative MFB",
+    "bankCode": "090115",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Insight MFB",
+    "bankCode": "090434",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Insight-MFB.png"
+  },
+  {
+    "bankName": "Investin MFB",
+    "bankCode": "090998",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Irl MFB",
+    "bankCode": "090149",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/IRL-MFB.png"
+  },
+  {
+    "bankName": "Isi-Uzo MFB",
+    "bankCode": "090849",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "ISUA MFB",
+    "bankCode": "090701",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/ISUA_MFB.png"
+  },
+  {
+    "bankName": "Isuofia Microfinance Bank",
+    "bankCode": "090353",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "JAIZ Bank",
+    "bankCode": "000006",
+    "scCode": "301",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/jaiz.png"
+  },
+  {
+    "bankName": "Jigawa Savings and Loans Limited",
+    "bankCode": "070029",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/JIGAWA-SAVINGS-AND-LOANS-LTD.png"
+  },
+  {
+    "bankName": "JubileeLife",
+    "bankCode": "090003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/jubilee_life.png"
+  },
+  {
+    "bankName": "KadPoly MFB",
+    "bankCode": "090320",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/KadPoly-MFB.png"
+  },
+  {
+    "bankName": "Kadupe MFB",
+    "bankCode": "090669",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Kaizen MFB",
+    "bankCode": "090800",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Kaizen-MFB.png"
+  },
+  {
+    "bankName": "Katagum MFB",
+    "bankCode": "090684",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Katsu MFB",
+    "bankCode": "090749",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Katsu-MFB.png"
+  },
+  {
+    "bankName": "Kayi MFB",
+    "bankCode": "090667",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "KayVee MFB",
+    "bankCode": "090554",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/KayVee-MFB.png"
+  },
+  {
+    "bankName": "KC MFB",
+    "bankCode": "090549",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/KC-MFB.png"
+  },
+  {
+    "bankName": "KCMB MFB",
+    "bankCode": "090191",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/KCMB_MFB.png"
+  },
+  {
+    "bankName": "Kebbi State Home Savings and Loans",
+    "bankCode": "070031",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Kebbi-State-Home-Savings-and-Loans.png"
+  },
+  {
+    "bankName": "KEGOW (ChamsMobile)",
+    "bankCode": "100036",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/KEGOW_CHAMSMOBILE.png"
+  },
+  {
+    "bankName": "Kenechukwu MFB",
+    "bankCode": "090602",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Kenechukwu-MFB.png"
+  },
+  {
+    "bankName": "Keystone Bank",
+    "bankCode": "000002",
+    "scCode": "082",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/keystone.png"
+  },
+  {
+    "bankName": "Koboweb MFB",
+    "bankCode": "090865",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Koins MFB",
+    "bankCode": "090839",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Koins-MFB.png"
+  },
+  {
+    "bankName": "Kolisa MFB",
+    "bankCode": "090830",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Kolomoni MFB",
+    "bankCode": "090480",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Kolomoni-MFB.png"
+  },
+  {
+    "bankName": "KongaPay",
+    "bankCode": "100025",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Konga_Pay.png"
+  },
+  {
+    "bankName": "Kredimoney Microfinance Bank",
+    "bankCode": "090380",
+    "scCode": "50200",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/kredimoney.png"
+  },
+  {
+    "bankName": "Lapo MFB LTD",
+    "bankCode": "090177",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Lawyers MFB",
+    "bankCode": "090724",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Lawyers_mfb.png"
+  },
+  {
+    "bankName": "Leadcity MFB",
+    "bankCode": "090650",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/LeadCity-MFB.png"
+  },
+  {
+    "bankName": "Lemmy MFB",
+    "bankCode": "091003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Letshego MFB",
+    "bankCode": "090420",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Letshego-MFB.png"
+  },
+  {
+    "bankName": "Levite MFB",
+    "bankCode": "090731",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Levite-MFB.png"
+  },
+  {
+    "bankName": "LifeGate MFB",
+    "bankCode": "090557",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Life-Gate-MFB.png"
+  },
+  {
+    "bankName": "Lightway MFB",
+    "bankCode": "090807",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/LightWay-MFB.png"
+  },
+  {
+    "bankName": "Liquidcrest MFB",
+    "bankCode": "090780",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Liquidcrest-MFB.png"
+  },
+  {
+    "bankName": "Living Trust Morgage Bank Plc",
+    "bankCode": "07007",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/living_trust_mortgage_bank.png"
+  },
+  {
+    "bankName": "Loma Bank",
+    "bankCode": "090620",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Loma-Bank.png"
+  },
+  {
+    "bankName": "Lotus Bank",
+    "bankCode": "000029",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/lotus_bank.png"
+  },
+  {
+    "bankName": "M36",
+    "bankCode": "100035",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/M36-Bank.png"
+  },
+  {
+    "bankName": "Maal MFB",
+    "bankCode": "090764",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Maal-MFB.png"
+  },
+  {
+    "bankName": "Maestro MFB",
+    "bankCode": "090746",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Maestro-MFB.png"
+  },
+  {
+    "bankName": "MAHFUZ MFB",
+    "bankCode": "090825",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mahfuz-MFB.png"
+  },
+  {
+    "bankName": "Mainstreet MFB",
+    "bankCode": "090171",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/mainstreet_mfb.png"
+  },
+  {
+    "bankName": "Manny Microfinance bank",
+    "bankCode": "090383",
+    "scCode": "51313",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/manny_mfb.png"
+  },
+  {
+    "bankName": "Maxitrust MFB",
+    "bankCode": "090843",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Mayden MFB",
+    "bankCode": "090854",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Mega MFB",
+    "bankCode": "090824",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Memento MFB",
+    "bankCode": "090867",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Mercury Microfinance Bank",
+    "bankCode": "090589",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mercury-Microfinance-bank.png"
+  },
+  {
+    "bankName": "Mia Microfinance Bank Limited",
+    "bankCode": "090859",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Microbiz MFB",
+    "bankCode": "090587",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/MicroBiz-MFB.png"
+  },
+  {
+    "bankName": "Mint Microfinance Bank",
+    "bankCode": "090763",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Mint-Finex MFB",
+    "bankCode": "090281",
+    "scCode": "50304",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mint.png"
+  },
+  {
+    "bankName": "Mkobo Mfb",
+    "bankCode": "090455",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mkobo_MFB.png"
+  },
+  {
+    "bankName": "Mkudi MFB",
+    "bankCode": "100011",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/MKudi-MFB.png"
+  },
+  {
+    "bankName": "Model MFB",
+    "bankCode": "090775",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Momo PSB",
+    "bankCode": "120003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Momo-PSB.png"
+  },
+  {
+    "bankName": "Moneyfield MFB",
+    "bankCode": "090144",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Moneyfield-MFB.png"
+  },
+  {
+    "bankName": "Moneymaster PSB",
+    "bankCode": "120005",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/MONEYMASTER-PSB.png"
+  },
+  {
+    "bankName": "Moneytronics MFB",
+    "bankCode": "090692",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Moneytronics-MFB.png"
+  },
+  {
+    "bankName": "Monieking MFB",
+    "bankCode": "090416",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Moniepoint",
+    "bankCode": "090405",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/moniepoint.png"
+  },
+  {
+    "bankName": "Moremonee MFB",
+    "bankCode": "090685",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/M&M-MFB.png"
+  },
+  {
+    "bankName": "MOUA MFB",
+    "bankCode": "090659",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/MichaelOkparaUniagric-MFB.png"
+  },
+  {
+    "bankName": "Movasco-op MFB",
+    "bankCode": "090979",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Mutual Alliance Mortgage Bank",
+    "bankCode": "070028",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mutual-Alliance-MFB.png"
+  },
+  {
+    "bankName": "Mutual Benefits MFB",
+    "bankCode": "090190",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Mutual-Benefits-MFB.png"
+  },
+  {
+    "bankName": "NAF MFB",
+    "bankCode": "090740",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Nasarawa MFB",
+    "bankCode": "090349",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nasarawa_MFB.png"
+  },
+  {
+    "bankName": "NDDC MFB",
+    "bankCode": "090679",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/NDDC-MFB.png"
+  },
+  {
+    "bankName": "Neptune MFB",
+    "bankCode": "090329",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Neptune-MFB.png"
+  },
+  {
+    "bankName": "Net MFB",
+    "bankCode": "090675",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Net-MFB.png"
+  },
+  {
+    "bankName": "New Dawn MFB",
+    "bankCode": "090205",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/New-Dawn-MFB.png"
+  },
+  {
+    "bankName": "Nexim Bank",
+    "bankCode": "030001",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nexim-Bank.png"
+  },
+  {
+    "bankName": "Nexton MFB",
+    "bankCode": "090818",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nexton-MFB.png"
+  },
+  {
+    "bankName": "Nigerian Prisons MFB",
+    "bankCode": "090505",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nigerian-Prisons-MFB.png"
+  },
+  {
+    "bankName": "Nolt Finance",
+    "bankCode": "050037",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Nomase MFB",
+    "bankCode": "090736",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nomase-MFB.png"
+  },
+  {
+    "bankName": "Nombank MFB",
+    "bankCode": "090645",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nombank-MFB.png"
+  },
+  {
+    "bankName": "Northquest Finance ",
+    "bankCode": "050030",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Northquest-Finance.png"
+  },
+  {
+    "bankName": "Noun MFB",
+    "bankCode": "090822",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Noun-MFB.png"
+  },
+  {
+    "bankName": "Nova Bank",
+    "bankCode": "060003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nova_Bank.png"
+  },
+  {
+    "bankName": "Novel MFB",
+    "bankCode": "090863",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Novus MFB",
+    "bankCode": "090734",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Novus-MFB.png"
+  },
+  {
+    "bankName": "NOWNOW DIGITAL SYSTEMS",
+    "bankCode": "100032",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/contech_global.png"
+  },
+  {
+    "bankName": "NRI MFB",
+    "bankCode": "090984",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "NSUK MFB",
+    "bankCode": "090491",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nsuk-MFB.png"
+  },
+  {
+    "bankName": "Nsukka MFB",
+    "bankCode": "090356",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Nuggets MFB",
+    "bankCode": "090676",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nuggets-MFB.png"
+  },
+  {
+    "bankName": "Nwannegadi MFB",
+    "bankCode": "090399",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Nwannegadi-MFB.png"
+  },
+  {
+    "bankName": "Oba MFB",
+    "bankCode": "090981",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "OBELEDU MFB",
+    "bankCode": "090755",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Obollo MFB",
+    "bankCode": "090810",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Oche MFB",
+    "bankCode": "090333",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Oche-MFB.png"
+  },
+  {
+    "bankName": "Octopus MFB",
+    "bankCode": "090576",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Octopus-MFB.png"
+  },
+  {
+    "bankName": "Odoakpu MFB",
+    "bankCode": "090654",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Oganiru MFB",
+    "bankCode": "091011",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "OGBERURU MFB",
+    "bankCode": "090738",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ogige MFB",
+    "bankCode": "090739",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ogige-MFB.png"
+  },
+  {
+    "bankName": "Ohha MFB",
+    "bankCode": "090626",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ohha-MFB.png"
+  },
+  {
+    "bankName": "Okada MFB",
+    "bankCode": "090996",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Okengwe MFB",
+    "bankCode": "090646",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "OKO MFB",
+    "bankCode": "090348",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Oko-MFB.png"
+  },
+  {
+    "bankName": "Okpe Microfinance Bank",
+    "bankCode": "090855",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "OKWO-OHA MFB",
+    "bankCode": "090752",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/OKWO-OHA-MFB.png"
+  },
+  {
+    "bankName": "Old Shoreham MFB",
+    "bankCode": "090410",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Old-Shoreham-MFB.png"
+  },
+  {
+    "bankName": "Olive MFB",
+    "bankCode": "090696",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Olive-MFB.png"
+  },
+  {
+    "bankName": "Olomu Aperan MFB",
+    "bankCode": "090852",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Olomu-Aperan-MFB.png"
+  },
+  {
+    "bankName": "Omak MFB",
+    "bankCode": "090700",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Omak-MFB.png"
+  },
+  {
+    "bankName": "Oneutility MFB Limited",
+    "bankCode": "090605",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Opay Digital Services Limited",
+    "bankCode": "100004",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/OPAY.png"
+  },
+  {
+    "bankName": "Optimus Bank",
+    "bankCode": "000036",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Optimus-Bank.png"
+  },
+  {
+    "bankName": "Oraukwu MFB",
+    "bankCode": "090492",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "OSANTA MFB",
+    "bankCode": "090750",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Oscotech Microfinance Bank",
+    "bankCode": "090396",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/OSCOTECH-MFB.png"
+  },
+  {
+    "bankName": "Osomhe MFB",
+    "bankCode": "090715",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Otech MFB",
+    "bankCode": "090580",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Otech-MFB-(1).png"
+  },
+  {
+    "bankName": "Otuo MFB",
+    "bankCode": "090542",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ourpass MFB",
+    "bankCode": "090767",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/OurPass-MFB.png"
+  },
+  {
+    "bankName": "Ours MFB",
+    "bankCode": "090346",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Oye Versity MFB",
+    "bankCode": "091029",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "P-UP MFB",
+    "bankCode": "090992",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Pact MFB",
+    "bankCode": "090846",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Paga",
+    "bankCode": "100002",
+    "scCode": "100002",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/paga.png"
+  },
+  {
+    "bankName": "PALMPAY",
+    "bankCode": "100033",
+    "scCode": "999991",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Palmpay.png"
+  },
+  {
+    "bankName": "Parallex Bank",
+    "bankCode": "000030",
+    "scCode": "526",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/parallex_bank.png"
+  },
+  {
+    "bankName": "Parkway-ReadyCash",
+    "bankCode": "100003",
+    "scCode": "311",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/parkway_readycash.png"
+  },
+  {
+    "bankName": "Pathfinder MFB",
+    "bankCode": "090680",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Pathfinder-MFB.png"
+  },
+  {
+    "bankName": "Patrickgold Microfinance Bank",
+    "bankCode": "090317",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/PATRICKGOLD_MICROFINANCE_BANK.png"
+  },
+  {
+    "bankName": "Payrep MFB",
+    "bankCode": "090823",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Payrep-MFB.png"
+  },
+  {
+    "bankName": "Paystack MFB",
+    "bankCode": "090986",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Paystack-Titan",
+    "bankCode": "100039",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/titan_paystack.png"
+  },
+  {
+    "bankName": "Peace MFB",
+    "bankCode": "090402",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Peace-MFB.png"
+  },
+  {
+    "bankName": "Pecan Trust Microfinance Bank",
+    "bankCode": "090137",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/PecanTrust-MFB.png"
+  },
+  {
+    "bankName": "Pennywise MFB",
+    "bankCode": "090196",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Pennywise-MFB.png"
+  },
+  {
+    "bankName": "Pentecost MFB",
+    "bankCode": "090861",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Pettysave MFB",
+    "bankCode": "090768",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Pettysave-MFB.png"
+  },
+  {
+    "bankName": "Platinum MFB",
+    "bankCode": "090993",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Plug MFB",
+    "bankCode": "090858",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "PocketApp",
+    "bankCode": "100042",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/PocketApp.png"
+  },
+  {
+    "bankName": "Poder Finance",
+    "bankCode": "050021",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/PFI-Finance.png"
+  },
+  {
+    "bankName": "POINTONE MFB",
+    "bankCode": "090754",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Pointone-MFB.png"
+  },
+  {
+    "bankName": "POLARIS BANK",
+    "bankCode": "000008",
+    "scCode": "076",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/polaris.png"
+  },
+  {
+    "bankName": "Polyibadan MFB",
+    "bankCode": "090534",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Polyibadan-MFB.png"
+  },
+  {
+    "bankName": "Premium Trust Bank",
+    "bankCode": "000031",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Premium_trust_bank.png"
+  },
+  {
+    "bankName": "Prestige MFB",
+    "bankCode": "090274",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Prestige-MFB.png"
+  },
+  {
+    "bankName": "Pristine Divitis MFB",
+    "bankCode": "090499",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/PristineDivitis-MFB.png"
+  },
+  {
+    "bankName": "Prodigy MFB",
+    "bankCode": "090784",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Prodigy-MFB.png"
+  },
+  {
+    "bankName": "Prospa Capital Microfinance Bank",
+    "bankCode": "090495",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Goodnews_mfb.png"
+  },
+  {
+    "bankName": "Providus Bank",
+    "bankCode": "000023",
+    "scCode": "101",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/providus.png"
+  },
+  {
+    "bankName": "Prudent Bank",
+    "bankCode": "090690",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Purple Money MFB",
+    "bankCode": "090303",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Purplemoney-MFB.png"
+  },
+  {
+    "bankName": "Pyramid MFB",
+    "bankCode": "090657",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Pyramid-MFB.png"
+  },
+  {
+    "bankName": "Qube MFB",
+    "bankCode": "090569",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Qube-MFB.png"
+  },
+  {
+    "bankName": "Quick MFB",
+    "bankCode": "090850",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Quick-MFB.png"
+  },
+  {
+    "bankName": "Rand Merchant Bank",
+    "bankCode": "000024",
+    "scCode": "502",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/rand_merchant_bank.png"
+  },
+  {
+    "bankName": "Randalpha MFB",
+    "bankCode": "090496",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Randalpha-MFB.png"
+  },
+  {
+    "bankName": "Rank MFB",
+    "bankCode": "090860",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/rankmfb.png.png"
+  },
+  {
+    "bankName": "Rayyan MFB",
+    "bankCode": "090616",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Rayyan_MFB.png"
+  },
+  {
+    "bankName": "Rehoboth Microfinance Bank",
+    "bankCode": "090463",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Rehoboth-MFB.png"
+  },
+  {
+    "bankName": "Reliance MFB",
+    "bankCode": "090173",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Reliance-MFB.png"
+  },
+  {
+    "bankName": "Renmoney MFB",
+    "bankCode": "090198",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Renmoney-MFB.png"
+  },
+  {
+    "bankName": "Retrust MFB",
+    "bankCode": "090766",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/retrust_mfb_480.png"
+  },
+  {
+    "bankName": "Revelation MFB",
+    "bankCode": "090666",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Rex MFB",
+    "bankCode": "090449",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Rex-MFB.png"
+  },
+  {
+    "bankName": "Ric MFB",
+    "bankCode": "090720",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Rima Growth Pathway MFB",
+    "bankCode": "090515",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Rima-Growth-Pathway-MFB.png"
+  },
+  {
+    "bankName": "Rimin Gado MFB",
+    "bankCode": "090713",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Rockshield MFB",
+    "bankCode": "090547",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Rockshield.png"
+  },
+  {
+    "bankName": "Royal Blue MFB",
+    "bankCode": "090622",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/RoyalBlue-MFB.png"
+  },
+  {
+    "bankName": "Royal Excellent MFB",
+    "bankCode": "090990",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Royal Exchange MFB",
+    "bankCode": "090138",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Royal-Exchange-MFB-(1).png"
+  },
+  {
+    "bankName": "RSU MFB",
+    "bankCode": "090535",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/RSU-MFB.png"
+  },
+  {
+    "bankName": "Rubies",
+    "bankCode": "090175",
+    "scCode": "125",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/rubies.png"
+  },
+  {
+    "bankName": "Run MFB",
+    "bankCode": "090771",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Run-MFB.png"
+  },
+  {
+    "bankName": "Sabi MFB",
+    "bankCode": "090727",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Sabi-MFB.png"
+  },
+  {
+    "bankName": "Safe Haven MFB",
+    "bankCode": "090286",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/safe_haven_mfb.png"
+  },
+  {
+    "bankName": "Safeline MFB",
+    "bankCode": "090875",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Sagamu MFB",
+    "bankCode": "090140",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Sagamu-MFB.png"
+  },
+  {
+    "bankName": "Sciart Finance",
+    "bankCode": "050024",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Sciart-Finance.png"
+  },
+  {
+    "bankName": "Seedvest Microfinance Bank",
+    "bankCode": "090369",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/seedvest.png"
+  },
+  {
+    "bankName": "Shalom MFB",
+    "bankCode": "090502",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Shalom-MFB.png"
+  },
+  {
+    "bankName": "Shanono MFB",
+    "bankCode": "090748",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Shanono-MFB.png"
+  },
+  {
+    "bankName": "Shepherd Trust MFB",
+    "bankCode": "090401",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Shepherd_Trust_MFB.png"
+  },
+  {
+    "bankName": "Shine MFB",
+    "bankCode": "091006",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Signature Bank",
+    "bankCode": "000034",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Signature-Bank.png"
+  },
+  {
+    "bankName": "Simplify Energy",
+    "bankCode": "110034",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Sincere MFB",
+    "bankCode": "090339",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Sincere_MFB.png"
+  },
+  {
+    "bankName": "SmartCash PSB",
+    "bankCode": "120004",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Smartcash-PSB.png"
+  },
+  {
+    "bankName": "Sofritrust MFB",
+    "bankCode": "090435",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Links-MFB.png"
+  },
+  {
+    "bankName": "Solid Allianze MFB",
+    "bankCode": "090506",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/SolidAllianzeMFB.png"
+  },
+  {
+    "bankName": "Soroman MFB",
+    "bankCode": "090769",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Soroman-MFB.png"
+  },
+  {
+    "bankName": "Sosa MFB",
+    "bankCode": "090836",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Source MFB",
+    "bankCode": "090641",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Source-MFB.png"
+  },
+  {
+    "bankName": "Sparkle MFB",
+    "bankCode": "090325",
+    "scCode": "51310",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/sparkle.png"
+  },
+  {
+    "bankName": "Spectrum MFB",
+    "bankCode": "090436",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/spectrum_mfb.png"
+  },
+  {
+    "bankName": "Spring Sky Finance",
+    "bankCode": "050036",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Spring-Sky-Finance.png"
+  },
+  {
+    "bankName": "Springfield MFB",
+    "bankCode": "090806",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Springfield-MFB.png"
+  },
+  {
+    "bankName": "Springville MFB",
+    "bankCode": "090786",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Springville-MFB.png"
+  },
+  {
+    "bankName": "Stable MFB",
+    "bankCode": "090833",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Stable-MFB.png"
+  },
+  {
+    "bankName": "Stanbic IBTC Bank",
+    "bankCode": "000012",
+    "scCode": "221",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/stanbic.png"
+  },
+  {
+    "bankName": "StanbicMobileMoney",
+    "bankCode": "100007",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/stanbic.png"
+  },
+  {
+    "bankName": "Standard Chartered",
+    "bankCode": "000021",
+    "scCode": "068",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/standard_chartered.png"
+  },
+  {
+    "bankName": "Stanford MFB",
+    "bankCode": "090162",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Stellas MFB",
+    "bankCode": "090262",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Stellas.png"
+  },
+  {
+    "bankName": "Sterling Bank",
+    "bankCode": "000001",
+    "scCode": "232",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/sterling.png"
+  },
+  {
+    "bankName": "Strait Sahara MFB",
+    "bankCode": "090985",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Sulspap MFB",
+    "bankCode": "090305",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Sulspap-MFB.png"
+  },
+  {
+    "bankName": "Summit Bank",
+    "bankCode": "080003",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Summit-Bank.png"
+  },
+  {
+    "bankName": "Suntop MFB",
+    "bankCode": "090644",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Suntop-MFB.png"
+  },
+  {
+    "bankName": "SUNTRUST BANK",
+    "bankCode": "000022",
+    "scCode": "100",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/suntrust.png"
+  },
+  {
+    "bankName": "Support MFB",
+    "bankCode": "090446",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Support-MFB.png"
+  },
+  {
+    "bankName": "Supreme Microfinance Bank",
+    "bankCode": "090564",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Sure Anchor MFB",
+    "bankCode": "090728",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "SWIFT TRUST MFB",
+    "bankCode": "090757",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/SunTrust-MFB.png"
+  },
+  {
+    "bankName": "Sycamore MFB",
+    "bankCode": "090827",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "TAJ Bank",
+    "bankCode": "000026",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/taj_bank.png"
+  },
+  {
+    "bankName": "TAJ_Pinspay",
+    "bankCode": "080002",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Taj-PinsPay.png"
+  },
+  {
+    "bankName": "Tanadi MFB (CRUST)",
+    "bankCode": "090560",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Tanadi.png"
+  },
+  {
+    "bankName": "Tatum Bank",
+    "bankCode": "000042",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Tatum-Bank.png"
+  },
+  {
+    "bankName": "Teerus MFB",
+    "bankCode": "090991",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Tellerone FI MFB",
+    "bankCode": "090788",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "TENN MFB",
+    "bankCode": "090716",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "THE BROOK FINANCE LTD",
+    "bankCode": "050031",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/The-Brook-Financw-Ltd.png"
+  },
+  {
+    "bankName": "The Millennium MFB",
+    "bankCode": "090711",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/The_Millennium_MFB.png"
+  },
+  {
+    "bankName": "Titan Trust Bank",
+    "bankCode": "000025",
+    "scCode": "102",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/titan_trust_bank.png"
+  },
+  {
+    "bankName": "TOFA MFB",
+    "bankCode": "090714",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/DEFAULT-BANK.PNG"
+  },
+  {
+    "bankName": "Toprate Microfinance Bank",
+    "bankCode": "090801",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/TopRate-MFB.png"
+  },
+  {
+    "bankName": "Transpay MFB",
+    "bankCode": "090708",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/TransPayMFB.png"
+  },
+  {
+    "bankName": "Treasures MFB",
+    "bankCode": "090663",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Treasures-MFB.png"
+  },
+  {
+    "bankName": "Tudun Wada MFB",
+    "bankCode": "090870",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Turbo MFB",
+    "bankCode": "090606",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "U And C MFB",
+    "bankCode": "090315",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/U-C-MFB.png"
+  },
+  {
+    "bankName": "UBA MONI",
+    "bankCode": "000040",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UBAMoni.png"
+  },
+  {
+    "bankName": "UBJ MFB",
+    "bankCode": "090762",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UBJ-MFB.png"
+  },
+  {
+    "bankName": "UCEE MFB",
+    "bankCode": "090706",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UCEEMFB.PNG"
+  },
+  {
+    "bankName": "UDA MICROFINANCE BANK",
+    "bankCode": "090403",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Uforo MFB",
+    "bankCode": "090869",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Uga MFB",
+    "bankCode": "090782",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ukpor MFB",
+    "bankCode": "090820",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ultimate MFB",
+    "bankCode": "090776",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ultimate-MFB.png"
+  },
+  {
+    "bankName": "ULTRAPAY MICROFINANCE BANK",
+    "bankCode": "090253",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Ultraviolet MFB",
+    "bankCode": "090781",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Ultraviolet-MFB.png"
+  },
+  {
+    "bankName": "UMUCHINEMERE PROCREDIT MFB",
+    "bankCode": "090514",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UMUCHINEMERE-PROCREDIT-MFB.png"
+  },
+  {
+    "bankName": "Umuchukwu Bank",
+    "bankCode": "090652",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Umunnachi MFB",
+    "bankCode": "090510",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UMUNNACHI-MFB.png"
+  },
+  {
+    "bankName": "Umunri MFB",
+    "bankCode": "090808",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Umunri-MFB.png"
+  },
+  {
+    "bankName": "Umuoji MFB",
+    "bankCode": "090814",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Umuoji-MFB.png"
+  },
+  {
+    "bankName": "Uniabuja MFB",
+    "bankCode": "090778",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Uniabuja-MFB.png"
+  },
+  {
+    "bankName": "Unilag MFB",
+    "bankCode": "090452",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Unilag-MFB.png"
+  },
+  {
+    "bankName": "Union Bank",
+    "bankCode": "000018",
+    "scCode": "032",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/union.png"
+  },
+  {
+    "bankName": "United Bank for Africa",
+    "bankCode": "000004",
+    "scCode": "033",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/uba.png"
+  },
+  {
+    "bankName": "Unity Bank",
+    "bankCode": "000011",
+    "scCode": "215",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/unity_bank.png"
+  },
+  {
+    "bankName": "Uniuyo MFB",
+    "bankCode": "090338",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Umuchinemere-Procredit-MFB.png"
+  },
+  {
+    "bankName": "Unlimit Nigeria Limited",
+    "bankCode": "110081",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/unlimit_nigeria_limited_480.png"
+  },
+  {
+    "bankName": "Unubi MFB",
+    "bankCode": "090719",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Unubi_mfb.png"
+  },
+  {
+    "bankName": "URE MFB",
+    "bankCode": "090619",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "UVUOMA MFB",
+    "bankCode": "090765",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Uzondu Microfinance Bank",
+    "bankCode": "090453",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/UZONDU_MICROFINANCE_BANK.png"
+  },
+  {
+    "bankName": "Vale Finance",
+    "bankCode": "050020",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Vale-Finance.png"
+  },
+  {
+    "bankName": "VFD MFB",
+    "bankCode": "090110",
+    "scCode": "566",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/VFD_MFB.png"
+  },
+  {
+    "bankName": "Victory MFB",
+    "bankCode": "090813",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Vista Microfinance Bank",
+    "bankCode": "090787",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Vista-MFB.png"
+  },
+  {
+    "bankName": "VTNETWORKS",
+    "bankCode": "100012",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/VTNETWORKS.png"
+  },
+  {
+    "bankName": "Waila MFB",
+    "bankCode": "090829",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Waila-MFB.png"
+  },
+  {
+    "bankName": "Wallet MFB",
+    "bankCode": "090805",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Wallet-MFB.png"
+  },
+  {
+    "bankName": "Waya MFB",
+    "bankCode": "090590",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Waya-MFB.png"
+  },
+  {
+    "bankName": "WE MFB",
+    "bankCode": "090989",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Wema Bank",
+    "bankCode": "000017",
+    "scCode": "035",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/wema.png"
+  },
+  {
+    "bankName": "Weston-Charis MFB",
+    "bankCode": "090741",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Weston-Charis-MFB.png"
+  },
+  {
+    "bankName": "Whitecrust Finance",
+    "bankCode": "050035",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Whitecrust-Finance.png"
+  },
+  {
+    "bankName": "Xpress Wallet",
+    "bankCode": "100040",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Xpress-Wallet.png"
+  },
+  {
+    "bankName": "XpressMTS",
+    "bankCode": "100041",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/XpressMTS.png"
+  },
+  {
+    "bankName": "Yabo MFB",
+    "bankCode": "090994",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Yes MFB",
+    "bankCode": "090142",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Yes-MFB.png"
+  },
+  {
+    "bankName": "Zain MFB",
+    "bankCode": "090976",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Default-Bank.png"
+  },
+  {
+    "bankName": "Zedvance Finance Limited",
+    "bankCode": "050019",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Zedvance_MFB.png"
+  },
+  {
+    "bankName": "Zefa MFB ",
+    "bankCode": "090747",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Zefa-MFB.png"
+  },
+  {
+    "bankName": "ZENITH BANK PLC",
+    "bankCode": "000015",
+    "scCode": "057",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/zenith.png"
+  },
+  {
+    "bankName": "Zenith Eazy Wallet",
+    "bankCode": "100034",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/zenith.png"
+  },
+  {
+    "bankName": "Zitra MFB",
+    "bankCode": "090718",
+    "scCode": "000",
+    "imageUrl": "https://d38v990enafbk6.cloudfront.net/Zitra_MFB.png"
+  }
+]
