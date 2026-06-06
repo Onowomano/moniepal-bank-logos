@@ -286,12 +286,6 @@
           "scCode": "40128"
         },
         {
-          "name": "Covenant MFB",
-          "aliases": ["Covenant Microfinance Bank"],
-          "bankCode": "070006",
-          "scCode": "949"
-        },
-        {
           "name": "Credit Direct Limited",
           "aliases": ["Credit Direct Limited"],
           "bankCode": "110049",
@@ -1107,6 +1101,12 @@
           "aliases": ["Corestep MFB"],
           "bankCode": "090365",
           "scCode": "50204"
+        },
+        {
+          "name": "Covenant MFB",
+          "aliases": ["Covenant Microfinance Bank"],
+          "bankCode": "070006",
+          "scCode": "949"
         },
         {
           "name": "Credit Afrique Microfinance Bank",
