@@ -286,6 +286,12 @@
           "scCode": "40128"
         },
         {
+          "name": "Covenant MFB",
+          "aliases": ["Covenant Microfinance Bank"],
+          "bankCode": "070006",
+          "scCode": "949"
+        },
+        {
           "name": "Credit Direct Limited",
           "aliases": ["Credit Direct Limited"],
           "bankCode": "110049",
@@ -1752,7 +1758,7 @@
         },
         {
           "name": "Ikoyi ile MFB",
-          "aliases": ["Ikoyi ile MFB"],
+          "aliases": ["Ikoyi ile Microfinance Bank"],
           "bankCode": "090681",
           "scCode": null
         },
@@ -3704,12 +3710,6 @@
           "aliases": ["Cooperative Mortgage Bank"],
           "bankCode": "90089",
           "scCode": "90089"
-        },
-        {
-          "name": "Covenant MFB",
-          "aliases": ["Covenant Microfinance Bank"],
-          "bankCode": "070006",
-          "scCode": "949"
         },
         {
           "name": "Delta Trust Mortgage Bank",
