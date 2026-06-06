@@ -1442,7 +1442,7 @@
     ],
     "bankCode": "070006",
     "scCode": "949",
-    "category": "mortgage_banks",
+    "category": "finance_companies",
     "logo": "https://cdn.jsdelivr.net/gh/Onowomano/moniepal-bank-logos@main/logos/ngn/Covenant%20MFB.png"
   },
   {
@@ -2961,7 +2961,7 @@
   {
     "name": "Ikoyi ile MFB",
     "aliases": [
-      "Ikoyi ile MFB"
+      "Ikoyi ile Microfinance Bank"
     ],
     "bankCode": "090681",
     "scCode": null,
